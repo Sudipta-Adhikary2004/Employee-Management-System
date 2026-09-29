@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/dao/DBConnection.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/dao/LoginDAO.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/dao/EmployeeDAO.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/edit-employee.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/SendMailServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/AddEmployeeServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/WEB-INF/classes/mail.properties</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/add-employee.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/UpdateEmployeeServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/index.html</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/index.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/model/Employee.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/model/User.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/ChangePasswordServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/DeleteEmployeeServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/EditEmployeeServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/LoginServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/LogoutServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/src/java/servlet/ViewEmployeeServlet.java</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/admin-dashboard.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/view-employees.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/employee-dashboard.jsp</file>
+            <file>file:/C:/jsp/EmployeeManagementSystem/web/change-password.jsp</file>
+        </group>
+    </open-files>
+</project-private>

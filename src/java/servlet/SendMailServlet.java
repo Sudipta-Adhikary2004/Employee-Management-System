@@ -38,7 +38,7 @@ public class SendMailServlet extends HttpServlet {
                        + "Please login and change your password immediately.";
 
         final String from = "xyz@gmail.com"; // sender email address
-        final String appPassword = "AbcD"; // App pasword
+        final String appPassword = "AbcD"; // App password
 
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");
